@@ -1,30 +1,30 @@
-hashTime: 135.862045ms
-hashGroupTime: 11.231µs
+hashTime: 113.777507ms
+hashGroupTime: 11.105µs
 31: 0 3 9 13 15 16 17 22 24 27 28 30 32 35 37 43 45 46 48 49 52 54 60 64 65 66 74 78 79 86 88 89 90 91 94 98 
 191: 1 2 4 5 6 7 8 10 11 12 14 18 19 20 21 23 25 26 29 31 33 34 36 38 39 40 41 42 44 47 50 51 53 55 56 57 58 59 61 62 63 67 68 69 70 71 72 73 75 76 77 80 81 82 83 84 85 87 92 93 95 96 97 99 
-compareTreeTime: 1.385310053s
-group 0: 56 95 
-group 1: 67 72 
-group 2: 28 54 
-group 3: 54 94 
-group 4: 74 79 
-group 5: 91 98 
-group 6: 38 93 99 
-group 7: 35 78 
-group 8: 52 89 
-group 9: 19 21 
-group 10: 0 9 45 86 
-group 11: 9 45 86 
-group 12: 17 65 
-group 13: 24 49 
-group 14: 30 88 
-group 15: 69 70 
-group 16: 15 24 
-group 17: 16 27 35 78 
-group 18: 37 52 
-group 19: 4 71 
-group 20: 11 96 
-group 21: 3 60 
-group 22: 10 76 
-group 23: 29 96 
-group 24: 40 62 
+compareTreeTime: 1.120030416s
+group 0: 16 27 35 78 
+group 1: 24 49 
+group 2: 37 52 
+group 3: 52 89 
+group 4: 10 76 
+group 5: 11 96 
+group 6: 0 9 
+group 7: 9 45 86 
+group 8: 67 72 
+group 9: 28 54 
+group 10: 54 94 
+group 11: 4 71 
+group 12: 29 96 
+group 13: 38 93 99 
+group 14: 3 60 
+group 15: 15 24 
+group 16: 40 62 
+group 17: 35 78 
+group 18: 74 79 
+group 19: 91 98 
+group 20: 19 21 
+group 21: 56 95 
+group 22: 69 70 
+group 23: 17 65 
+group 24: 30 88 
